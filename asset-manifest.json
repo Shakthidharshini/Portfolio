@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_shakthi/static/css/main.5f25a878.css",
+    "main.js": "/portfolio_shakthi/static/js/main.49d92adf.js",
+    "index.html": "/portfolio_shakthi/index.html",
+    "main.5f25a878.css.map": "/portfolio_shakthi/static/css/main.5f25a878.css.map",
+    "main.49d92adf.js.map": "/portfolio_shakthi/static/js/main.49d92adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f25a878.css",
+    "static/js/main.49d92adf.js"
+  ]
+}
